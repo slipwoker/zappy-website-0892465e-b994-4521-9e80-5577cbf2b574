@@ -1,55 +1,65 @@
-# Business — Generative Engine Optimization Map
+# חיו של אהוד מנור — Generative Engine Optimization Map
+
+> A חינוך ותוכן ביוגרפי business.
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://example.com
+https://chiyo-shel-ehud-manor.zappy5.app
 גלו את פרויקט ביוגרפי על אהוד מנור לילדים - סיפור חייו המרתק של אהוד מנור המוצג במיוחד לתלמידי בית ספר יסודי. חומר לימודי איכותי ומרתק.
 
 ### הביוגרפיה
-https://example.com/biography
+https://chiyo-shel-ehud-manor.zappy5.app/biography
 הביוגרפיה המלאה של אהוד מנור - חייו של אהוד מנור לבית ספר יסודי מוצגים כאן בצורה מפורטת ומרתקת. למדו על ילדותו, צעירותו והקריירה המדהימה שלו.
 
 ### השירים המפורסמים
-https://example.com/songs
+https://chiyo-shel-ehud-manor.zappy5.app/songs
 השירים המפורסמים של אהוד מנור - חומר לימודי אהוד מנור לתלמידים כולל את כל השירים האהובים והמוכרים שכתב. למדו על השירים ושירו אותם יחד!
 
 ### ציר הזמן
-https://example.com/timeline
+https://chiyo-shel-ehud-manor.zappy5.app/timeline
 ציר הזמן של חייו של אהוד מנור - פרויקט יסודי אהוד מנור מציג את כל הרגעים החשובים בחייו, מהלידה ועד למורשת שהשאיר אחריו.
 
 ### אודות הפרויקט
-https://example.com/about
+https://chiyo-shel-ehud-manor.zappy5.app/about
 אודות פרויקט חייו של אהוד מנור לבית ספר יסודי - פרויקט חינוכי ייחודי המיועד לתלמידי בית ספר יסודי להכרת סיפור חייו של אהוד מנור.
 
 ### צור קשר
-https://example.com/contact
+https://chiyo-shel-ehud-manor.zappy5.app/contact
 צרו קשר עם פרויקט חייו של אהוד מנור לבית ספר יסודי - נשמח לענות על שאלות, לקבל הצעות ולשתף פעולה עם מורים והורים.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://chiyo-shel-ehud-manor.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://chiyo-shel-ehud-manor.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://chiyo-shel-ehud-manor.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About חיו של אהוד מנור
+חיו של אהוד מנור is a business in the חינוך ותוכן ביוגרפי industry.
+
+## Target Audience
+תלמידי בית ספר יסודי
+
+## Industry
+חינוך ותוכן ביוגרפי
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://chiyo-shel-ehud-manor.zappy5.app/sitemap.xml
+- **Robots.txt**: https://chiyo-shel-ehud-manor.zappy5.app/robots.txt
