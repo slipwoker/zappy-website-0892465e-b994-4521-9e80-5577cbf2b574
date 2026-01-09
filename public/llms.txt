@@ -1,6 +1,4 @@
-# חיו של אהוד מנור — Generative Engine Optimization Map
-
-> A חינוך ותוכן ביוגרפי business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -48,15 +46,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About חיו של אהוד מנור
-חיו של אהוד מנור is a business in the חינוך ותוכן ביוגרפי industry.
-
-## Target Audience
-תלמידי בית ספר יסודי
-
-## Industry
-חינוך ותוכן ביוגרפי
-
+## About Business
 ---
 
 # Additional Resources

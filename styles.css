@@ -676,3 +676,10 @@ body.accessibility-widget-visible ._access-menu {
     display: none !important;
   }
 }
+
+/* === AI CUSTOMIZATION ADDITIONS === */
+/* Activities CTA button styling */
+.activities-cta {
+  text-align: center;
+  margin-top: 2rem;
+}
