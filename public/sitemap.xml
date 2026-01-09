@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://zappy-site-0892465e-b994-4521-9e80.onrender.com</loc>
+    <loc>https://chiyo-shel-ehud-manor.zappy5.app</loc>
     <lastmod>2026-01-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://zappy-site-0892465e-b994-4521-9e80.onrender.com/biography</loc>
+    <loc>https://chiyo-shel-ehud-manor.zappy5.app/biography</loc>
     <lastmod>2026-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zappy-site-0892465e-b994-4521-9e80.onrender.com/songs</loc>
+    <loc>https://chiyo-shel-ehud-manor.zappy5.app/songs</loc>
     <lastmod>2026-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zappy-site-0892465e-b994-4521-9e80.onrender.com/timeline</loc>
+    <loc>https://chiyo-shel-ehud-manor.zappy5.app/timeline</loc>
     <lastmod>2026-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zappy-site-0892465e-b994-4521-9e80.onrender.com/about</loc>
+    <loc>https://chiyo-shel-ehud-manor.zappy5.app/about</loc>
     <lastmod>2026-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zappy-site-0892465e-b994-4521-9e80.onrender.com/contact</loc>
+    <loc>https://chiyo-shel-ehud-manor.zappy5.app/contact</loc>
     <lastmod>2026-01-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://zappy-site-0892465e-b994-4521-9e80.onrender.com/privacy</loc>
-    <lastmod>2026-01-09</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://zappy-site-0892465e-b994-4521-9e80.onrender.com/terms</loc>
+    <loc>https://chiyo-shel-ehud-manor.zappy5.app/privacy</loc>
     <lastmod>2026-01-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://zappy-site-0892465e-b994-4521-9e80.onrender.com/accessibility</loc>
+    <loc>https://chiyo-shel-ehud-manor.zappy5.app/terms</loc>
+    <lastmod>2026-01-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://chiyo-shel-ehud-manor.zappy5.app/accessibility</loc>
     <lastmod>2026-01-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
