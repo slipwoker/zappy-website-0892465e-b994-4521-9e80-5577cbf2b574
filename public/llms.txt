@@ -1,55 +1,65 @@
-# Business — Generative Engine Optimization Map
+# חיו של אהוד מנור — Generative Engine Optimization Map
+
+> A חינוך ותוכן ביוגרפי business.
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://chiyo-shel-ehud-manor.zappy5.app
+https://zappy-site-0892465e-b994-4521-9e80.onrender.com
 גלו את פרויקט ביוגרפי על אהוד מנור לילדים - סיפור חייו המרתק של אהוד מנור המוצג במיוחד לתלמידי בית ספר יסודי. חומר לימודי איכותי ומרתק.
 
 ### הביוגרפיה
-https://chiyo-shel-ehud-manor.zappy5.app/biography
+https://zappy-site-0892465e-b994-4521-9e80.onrender.com/biography
 הביוגרפיה המלאה של אהוד מנור - חייו של אהוד מנור לבית ספר יסודי מוצגים כאן בצורה מפורטת ומרתקת. למדו על ילדותו, צעירותו והקריירה המדהימה שלו.
 
 ### השירים המפורסמים
-https://chiyo-shel-ehud-manor.zappy5.app/songs
+https://zappy-site-0892465e-b994-4521-9e80.onrender.com/songs
 השירים המפורסמים של אהוד מנור - חומר לימודי אהוד מנור לתלמידים כולל את כל השירים האהובים והמוכרים שכתב. למדו על השירים ושירו אותם יחד!
 
 ### ציר הזמן
-https://chiyo-shel-ehud-manor.zappy5.app/timeline
+https://zappy-site-0892465e-b994-4521-9e80.onrender.com/timeline
 ציר הזמן של חייו של אהוד מנור - פרויקט יסודי אהוד מנור מציג את כל הרגעים החשובים בחייו, מהלידה ועד למורשת שהשאיר אחריו.
 
 ### אודות הפרויקט
-https://chiyo-shel-ehud-manor.zappy5.app/about
+https://zappy-site-0892465e-b994-4521-9e80.onrender.com/about
 אודות פרויקט חייו של אהוד מנור לבית ספר יסודי - פרויקט חינוכי ייחודי המיועד לתלמידי בית ספר יסודי להכרת סיפור חייו של אהוד מנור.
 
 ### צור קשר
-https://chiyo-shel-ehud-manor.zappy5.app/contact
+https://zappy-site-0892465e-b994-4521-9e80.onrender.com/contact
 צרו קשר עם פרויקט חייו של אהוד מנור לבית ספר יסודי - נשמח לענות על שאלות, לקבל הצעות ולשתף פעולה עם מורים והורים.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://chiyo-shel-ehud-manor.zappy5.app/privacy
+https://zappy-site-0892465e-b994-4521-9e80.onrender.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://chiyo-shel-ehud-manor.zappy5.app/terms
+https://zappy-site-0892465e-b994-4521-9e80.onrender.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://chiyo-shel-ehud-manor.zappy5.app/accessibility
+https://zappy-site-0892465e-b994-4521-9e80.onrender.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About חיו של אהוד מנור
+חיו של אהוד מנור is a business in the חינוך ותוכן ביוגרפי industry.
+
+## Target Audience
+תלמידי בית ספר יסודי
+
+## Industry
+חינוך ותוכן ביוגרפי
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://chiyo-shel-ehud-manor.zappy5.app/sitemap.xml
-- **Robots.txt**: https://chiyo-shel-ehud-manor.zappy5.app/robots.txt
+- **Sitemap**: https://zappy-site-0892465e-b994-4521-9e80.onrender.com/sitemap.xml
+- **Robots.txt**: https://zappy-site-0892465e-b994-4521-9e80.onrender.com/robots.txt
